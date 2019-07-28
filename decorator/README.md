@@ -25,3 +25,6 @@ fedtax.getPrice()
 ↓
 Sale.prototype.getPrice()
 ```
+
+- 継承を使うパターン
+- リストを使うパターン
